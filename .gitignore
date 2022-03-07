@@ -1,0 +1,12 @@
+﻿# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+.idea
+model_1
+albert_zh
+packages
+static/*
+!static/doctor
+config.ini
+spatial-lock-335806-3e870e222d30.json
